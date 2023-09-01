@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David-Damian. Applied Mathematician first, mutating to data scientist as student of the Master in Data Science ITAM.
+- 👋 Hi, I’m @David-Damian. Applied Mathematician and Master in Data Science gratuated at ITAM.
 - 👀 I’m interested in maths (functional analysis, dynamical systems and stochastic processes), statistics and data science topics.
 - 🌱 I’m currently learning about data science topics as cloud services, deep neural networks, machine learning, bayesian statistics
 - 📫 You can reach me at ddamiana@itam.mx
