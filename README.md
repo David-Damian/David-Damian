@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-Damian. Applied Mathematician, Data Scientist and Master in Data Science gratuated at ITAM.
 - 💻📜 I’m currently typing my master dissertation which covers bayesian non parametrics (Gaussian Processes), probabilistic numerics and statistical learning topics.
-- 📊 My mathematical interests lie in optimization, functional analysis, and stochastic processes, with a particular focus on applying to statistics and data science.
+- 📊 My mathematical interests lie in optimization, functional analysis, and stochastic processes, with a particular focus on applying to IA, data science and statistics.
 - 📫 You can reach me at ddamiana@itam.mx
 
 <!---
